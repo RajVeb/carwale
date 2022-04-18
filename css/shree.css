@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navbar img{
+
+  height: auto;
+    width: 155px;
+    margin-left: 68px;
+
+}
+
+.navbar{
+
+  position: fixed;
+  display: block;
+  padding: 20px;
+  background-color: white;
+  width: 100%;
+}
+
+}
+
+ a{
+
+  margin-left: 65px;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+
+}
+
+
+  input {
+  margin-left: 163px;
+  height: 38px;
+  width: 249px;
+  padding-left: 12px;
+  font-size: 14pt;
+
+  }
+
+  
+
+h1{
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px black;
+}

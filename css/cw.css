@@ -1,0 +1,217 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navbar img {
+
+  height: auto;
+    width: 155px;
+    margin-left: 68px;
+
+}
+
+.navbar{
+
+  position: fixed;
+  display: block;
+  padding: 20px;
+  background-color: white;
+  width: 100%;
+}
+
+
+
+.navbar a {
+
+  margin-left: 65px;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+
+}
+
+
+.navbar input {
+  margin-left: 163px;
+  height: 38px;
+  width: 249px;
+  padding-left: 12px;
+  font-size: 14pt;
+
+  }
+
+  .abc  {
+    background-image: url("../images/car.jpg");
+     min-height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 24%;
+  }
+
+  .main h1{
+    
+    padding-top: 216px;
+    text-align: center;
+    text-shadow: -2px 0px black;
+    color: white;
+  }
+
+  .main select{
+    margin-right: 141px;
+    height: 49px;
+    width: 79px;
+    background-color: #e4e4e4e8;
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+  }
+
+  .main input {
+
+    margin-left: -146px;
+    height: 49px;
+    width: 639px;
+    border: none;
+    border-radius: 2px;
+
+}
+
+
+  .main button {
+    
+    margin-left: -104px;
+    height: 45px;
+    width: 98px;
+    border-radius: 3px;
+    background-color: #e63312;
+    border: none;
+}
+
+div.gallery {
+  
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 373px;
+  margin-left: 95px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+    height: 256px;
+
+    }
+
+
+div.xyz {
+  padding: 15px;
+  text-align: left;
+  background-color: #f5f5f5;
+  font-size: larger;
+    
+}
+
+.xyz h3{
+    margin-left: 95px;
+    margin-top: 21px;
+    margin-bottom: 23px;
+}
+
+.pqr h3{
+  clear: both;
+  margin-left: 103px;
+    margin-bottom: 53px;
+    padding-top: 78px;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+td {
+
+  text-align: center;
+  font-size: larger;
+    font-weight: bold;
+
+}
+
+table {
+  border-collapse: collapse;
+}
+
+  
+.lmn{
+  width: 75%;
+  margin:auto;
+}
+
+.lmn h3{
+  text-align: left;
+  font-size: 30px;
+  font-style: bold;
+  margin-left: 62px;
+  margin-bottom: 48px;
+}
+
+.feature{
+      margin-bottom: 23px;
+
+}
+
+.feature a {
+ font-size: 19px;
+  text-decoration: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 20px;
+  margin-left: 65px;
+  color: black;
+
+}
+
+.feature a:hover {
+    border-bottom: 3px solid black;
+
+}
+
+.price {
+    font-size: 19px;
+    display: flex;
+    border: 1px solid #000;
+    columns: double;
+    margin-top: 13px;
+    padding: 20px;
+    flex-wrap: wrap;
+    width: 64%;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.price button {
+    margin: 6px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid grey;
+    width: 180px;
+}
+}
+
+.main select, input ,button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+  
